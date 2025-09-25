@@ -9,14 +9,20 @@ This project was developed to practice Object-Oriented Programming and design pa
 - **Singleton Pattern** for centralized management
 
 ## Features
-✅ Register new books and students  
-✅ List catalog and registered students  
-✅ Loan and return books (availability control)  
-✅ Simple menu-based CLI interface  
+* Register new books and students  
+* List catalog and registered students  
+* Loan and return books (availability control)  
+* Simple menu-based CLI interface  
 
 ## How to Run
 1. Clone this repository:
    ```bash
+## What I Learned
+* Practice with **Object-Oriented Programming** (classes, encapsulation, constructors)
+* Implementation of **Singleton Pattern**
+* Experience with **ArrayList** for data management
+* Development of a simple **menu-based CLI application**
+   
    git clone https://github.com/WillianFerreiraDaCosta/library-management-java.git
 
    Made by Willian Ferreira da Costa
